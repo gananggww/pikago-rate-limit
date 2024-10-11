@@ -1,24 +1,24 @@
-Hak cipta (c) 2016 The G3N Authors. Semua hak dilindungi undang-undang.
+Copyright (c) 2016 The G3N Authors. All rights reserved.
 
-Distribusi ulang dan penggunaan dalam bentuk sumber dan biner, dengan atau tanpa
-modifikasi, diperbolehkan asalkan memenuhi syarat-syarat berikut:
-bertemu:
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
 
-   * Distribusi ulang kode sumber harus mempertahankan hak cipta di atas
-perhatikan, daftar ketentuan ini dan pernyataan penyangkalan berikut.
-   * Distribusi ulang dalam bentuk biner harus mereproduksi hal di atas
-pemberitahuan hak cipta, daftar ketentuan ini dan penafian berikut
-dalam dokumentasi dan/atau materi lain yang disertakan dengan
-distribusi.
+   * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+   * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
 
-PERANGKAT LUNAK INI DISEDIAKAN OLEH PEMEGANG HAK CIPTA DAN KONTRIBUTOR
-“SEBAGAIMANA ADANYA” DAN JAMINAN TERSURAT ATAU TERSIRAT APAPUN, TERMASUK, NAMUN TIDAK TERMASUK
-TERBATAS PADA, JAMINAN TERSIRAT ATAS KEMAMPUAN DIPERDAGANGKAN DAN KESESUAIAN UNTUK
-TUJUAN TERTENTU DISANGKAL. DALAM KEADAAN APAPUN HAK CIPTA
-PEMILIK ATAU KONTRIBUTOR TIDAK BERTANGGUNG JAWAB ATAS SEGALA KERUSAKAN LANGSUNG, TIDAK LANGSUNG, INSIDENTAL,
-KERUSAKAN KHUSUS, TELADAN, ATAU KONSEKUENSIAL (TERMASUK, NAMUN TIDAK
-TERBATAS PADA, PENGADAAN BARANG ATAU JASA PENGGANTI; HILANGNYA KEGUNAAN,
-DATA, ATAU KEUNTUNGAN; ATAU GANGGUAN BISNIS) BAGAIMANA PUN PENYEBABNYA DAN PADA SETIAP
-TEORI TANGGUNG JAWAB, BAIK DALAM KONTRAK, TANGGUNG JAWAB MUTLAK, MAUPUN TINDAKAN MELAWAN HUKUM
-(TERMASUK KELALAIAN ATAU LAINNYA) YANG TIMBUL DALAM CARA APAPUN DARI PENGGUNAAN
-PERANGKAT LUNAK INI, BAHKAN JIKA TELAH DIBERITAHUKAN TENTANG KEMUNGKINAN KERUSAKAN TERSEBUT.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
